@@ -36,4 +36,4 @@ is used.
 
 For more details, please refer to "ToDo.pdf" file.
 
-*Note: This project is done for a course project, the serialized version of this code was already designed and given by the instructor. My implementation was to parallelize them using OPENMP and conducting the performance tests.*
+*Note: This project is done for a course project, the serialized version of this code was already designed and given by the instructor. My implementation was to parallelize them using CUDA and conducting the performance tests.*
